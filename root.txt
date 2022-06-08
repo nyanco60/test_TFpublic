@@ -2,3 +2,4 @@ root.txt
 ルートにあるファイル
 先程developのブランチを生成した。
 developに切替てroot.txtを更新してみた。
+test_UCTprivateの生成が完了した。
