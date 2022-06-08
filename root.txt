@@ -1,3 +1,4 @@
 root.txt
 ルートにあるファイル
 先程developのブランチを生成した。
+developに切替てroot.txtを更新してみた。
