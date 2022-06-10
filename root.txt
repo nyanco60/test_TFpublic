@@ -4,3 +4,4 @@ root.txt
 developに切替てroot.txtを更新してみた。
 test_UCTprivateの生成が完了した。
 TFpublicを更新したので、UCTpublicとUCTprivate2に反映させる。
+UCTprivate2を更新したものをUCTpublic経由でTFpublicに反映させる。
